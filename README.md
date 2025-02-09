@@ -1,8 +1,8 @@
-<h2 align="left">Clara Castelo Branco</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">Me chamo Clara, tenho 23 anos e sou do Rio de Janeiro. Atualmente estou no 6° período do curso de Ciência da Computação. Sou apaixonada por tecnologia e, desde muito nova, sempre fui bastante curiosa sobre como as coisas funcionavam. Hoje sou estagiária na @Globo com foco em desenvolvimento fullstack. Gosto de aprender coisas novas e estou sempre em busca de novos desafios para o meu desenvolvimento profissional.</p>
+<p align="left">Olá! Me chamo Clara, tenho 23 anos e sou do Rio de Janeiro. Atualmente estou no 6° período do curso de Ciência da Computação. Sou apaixonada por tecnologia e, desde muito nova, sempre fui bastante curiosa sobre como as coisas funcionavam. Hoje sou estagiária na @Globo com foco em desenvolvimento fullstack. Gosto de aprender coisas novas e estou sempre em busca de novos desafios para o meu desenvolvimento profissional.</p>
 
 ###
 
